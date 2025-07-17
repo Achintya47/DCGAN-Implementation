@@ -82,7 +82,7 @@
 
 | Epoch 10 to 35 | |
 |----------------|----------------|
-|<img src="./config/face_3.png" width="400"/>|<img src="./config/face_4.png" width="400"/>|
+|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/faces_3.png" width="400"/>|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/faces_4.png" width="400"/>|
 
 > ✅ **Insight**: CelebA dataset yielded **clearer**, more **consistent** face generations even after prolonged training—thanks to higher quality and alignment.
 
