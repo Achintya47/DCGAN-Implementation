@@ -2,8 +2,8 @@ import os
 import shutil
 from tqdm import tqdm  # Make sure to install tqdm if you haven't already
 
-source_dir = r'C:\Users\anura\OneDrive\Desktop\Machine Learning\GEN\DCGAN\anime_images'
-destination_dir = r'C:\Users\anura\OneDrive\Desktop\Machine Learning\GEN\DCGAN\all_images'
+source_dir = r'anime_images'
+destination_dir = r'all_images'
 
 # Create destination folder if it doesn't exist
 os.makedirs(destination_dir, exist_ok=True)
