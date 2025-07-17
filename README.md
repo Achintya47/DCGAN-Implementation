@@ -27,7 +27,7 @@
 
 | Anime Faces Dataset | CelebA Faces Dataset |
 |---------------------|----------------------|
-|<img src="./config/anime_real.png" width="400"/>|<img src="./config/face_real.png" width="400"/>|
+|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/real_faces.png" width="400"/>|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/real_anime.png" width="400"/>|
 
 - **Anime Faces Dataset**  
   [Kaggle Link](https://www.kaggle.com/datasets/splcher/animefacedataset)  
@@ -45,7 +45,7 @@
 
 | Step 0 to Epoch 10 | |
 |--------------------|------------------|
-|<img src="./config/anime_1.png" width="400"/>|<img src="./config/anime_2.png" width="400"/>|
+|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/anime_1.png" width="400"/>|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/anime_2.png" width="400"/>|
 
 ---
 
@@ -53,7 +53,7 @@
 
 | Epoch 10 to 35 | |
 |----------------|----------------|
-|<img src="./config/anime_3.png" width="400"/>|<img src="./config/anime_4.png" width="400"/>|
+|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/anime_3.png" width="400"/>|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/anime_4.png" width="400"/>|
 
 > ⚠️ **Observation**: Mode collapse and reduced diversity as training continued. The anime dataset has noise and non-face images which led to instability.
 
@@ -63,7 +63,7 @@
 
 | Step 0 to Epoch 10 | |
 |--------------------|------------------|
-|<img src="./config/face_1.png" width="400"/>|<img src="./config/face_2.png" width="400"/>|
+|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/faces_1.png" width="400"/>|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/faces_2.png" width="400"/>|
 
 ---
 
