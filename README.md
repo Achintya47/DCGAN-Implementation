@@ -30,7 +30,7 @@
 |<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/real_faces.png" width="400"/>|<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/real_anime.png" width="400"/>|
 
 - **Anime Faces Dataset**  
-  [Kaggle Link](https://www.kaggle.com/datasets/splcher/animefacedataset)  
+  [Kaggle Link](https://www.kaggle.com/datasets/diraizel/anime-images-dataset)  
   > Diverse set with various artistic styles. Contains full-body characters, posters, and inconsistent framing.
 
 - **CelebA Face Dataset**  
