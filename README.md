@@ -32,7 +32,18 @@
 - **Anime Faces Dataset**  
   [Kaggle Link](https://www.kaggle.com/datasets/diraizel/anime-images-dataset)  
   > Diverse set with various artistic styles. Contains full-body characters, posters, and inconsistent framing.
+---
 
+## 📝 Note
+
+> The **Anime Faces dataset** is structured into **231 subfolders**, each containing approximately **275 images**.
+>
+> To consolidate all images into a single folder for training, I wrote a simple script:
+>
+> 🔧 **`move_images.py`** — This script recursively goes through all subdirectories and moves the image files into a flat directory.
+>
+> You can run it before dataset preprocessing to simplify your dataloader setup.
+---
 - **CelebA Face Dataset**  
   [Kaggle Link](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)  
   > High-quality, consistent, and aligned facial images—ideal for DCGAN convergence.
